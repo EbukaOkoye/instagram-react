@@ -105,12 +105,12 @@
         margin-left: auto;
     }
 
-    .profile-info {
+    /* .profile-info {
         /* border: 1px solid #000; */
-    }
+    /* } */
 
     .about {
-        text-align: center2;
+        text-align: center;
         max-width: 90%; 
     }
 }    
